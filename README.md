@@ -87,7 +87,6 @@ This project is licensed under the MIT License.
 ## Technical Details
 
 ### Exchange Rates
-
 The application uses a predefined exchange rate object:
 
 ```typescript
@@ -108,7 +107,6 @@ const exchangeRates: ExchangeRates = {
 ```
 
 ### Type Definitions
-
 ```typescript
 type CurrencyCode = 'USD' | 'BRL' | 'EUR';
 
