@@ -117,6 +117,6 @@ type ExchangeRates = {
 };
 ```
 
-## Authors
+## Author
 
 - **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
