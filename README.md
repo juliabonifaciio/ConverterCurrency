@@ -80,13 +80,9 @@ npx expo start
 5. Press "Converter" to see the result
 6. The converted amount will be displayed at the bottom of the screen
 
-```
-
 ## License
 
 This project is licensed under the MIT License.
-
----
 
 ## Technical Details
 
