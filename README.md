@@ -1,12 +1,10 @@
-![Banner](./src/assets/images/banner.png)
-
 # Currency Converter App
 
-A modern, user-friendly currency conversion application built with React Native and Expo, featuring real-time currency conversion between USD, EUR, and BRL.
+![Banner](./src/assets/images/banner.png)
 
-![Project Illustration](./src/assets/images/project-illustration.png)
+A user-friendly currency conversion application built with React Native and Expo, featuring real-time currency conversion between USD, EUR, and BRL.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -18,11 +16,11 @@ A modern, user-friendly currency conversion application built with React Native 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🌟 Overview
+## Overview
 
 The Currency Converter App is a mobile application that provides instant currency conversion between United States Dollar (USD), Brazilian Real (BRL), and Euro (EUR). Built with React Native and styled with Expo Linear Gradient, it offers a sleek, intuitive interface with real-time conversion rates.
 
-## ✨ Features
+## Features
 
 - Real-time currency conversion
 - Support for USD, BRL, and EUR
@@ -32,7 +30,7 @@ The Currency Converter App is a mobile application that provides instant currenc
 - Responsive layout
 - Type-safe implementation with TypeScript
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - React Native
 - TypeScript
@@ -40,7 +38,7 @@ The Currency Converter App is a mobile application that provides instant currenc
 - Linear Gradient
 - Custom Styling
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -49,16 +47,16 @@ Before you begin, ensure you have the following installed:
 - Expo CLI
 - A mobile device or emulator
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/currency-converter-app.git
+git clone https://github.com/juliabonifaciio/ConverterCurrency.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd currency-converter-app
+cd my-app
 ```
 
 3. Install dependencies:
@@ -70,10 +68,10 @@ yarn install
 
 4. Start the development server:
 ```bash
-expo start
+npx expo start
 ```
 
-## 💻 Usage
+## Usage
 
 1. Launch the app on your device or emulator
 2. Enter the amount you want to convert in the input field
@@ -84,13 +82,13 @@ expo start
 
 ```
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Exchange Rates
 
@@ -125,6 +123,6 @@ type ExchangeRates = {
 };
 ```
 
-## ✍️ Authors
+## Authors
 
 - **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
