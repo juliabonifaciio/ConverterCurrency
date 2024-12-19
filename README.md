@@ -1,6 +1,6 @@
 # Currency Converter App
 
-![Banner](./src/assets/images/github-banner.png)
+![Banner](./src/assets/images/banner.png)
 
 A user-friendly currency conversion application built with React Native and Expo, featuring real-time currency conversion between USD, EUR, and BRL.
 
