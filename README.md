@@ -82,40 +82,7 @@ expo start
 5. Press "Converter" to see the result
 6. The converted amount will be displayed at the bottom of the screen
 
-## 📁 Project Structure
-
 ```
-currency-converter-app/
-├── src/
-│   ├── assets/
-│   │   └── images/
-│   │       ├── banner.png
-│   │       └── project-illustration.png
-│   ├── components/
-│   │   └── HomeScreen.tsx
-│   └── styles/
-│       └── styles.ts
-├── App.tsx
-├── package.json
-└── tsconfig.json
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch:
-```bash
-git checkout -b feature/AmazingFeature
-```
-3. Commit your changes:
-```bash
-git commit -m 'Add some AmazingFeature'
-```
-4. Push to the branch:
-```bash
-git push origin feature/AmazingFeature
-```
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -158,20 +125,6 @@ type ExchangeRates = {
 };
 ```
 
-## 📱 Screenshots
-
-[Add your app screenshots here]
-
 ## ✍️ Authors
 
-- **Your Name** - *Initial work* - [YourGithubUsername](https://github.com/YourGithubUsername)
-
-## 👏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
----
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+- **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
