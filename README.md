@@ -5,7 +5,6 @@
 A user-friendly currency conversion app built with React Native and Expo, featuring real-time currency conversion between USD, EUR, and BRL.
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -17,11 +16,9 @@ A user-friendly currency conversion app built with React Native and Expo, featur
 - [License](#license)
 
 ## Overview
-
 The Currency Converter App is a mobile application that provides instant currency conversion between United States Dollar (USD), Brazilian Real (BRL), and Euro (EUR). Built with React Native and styled with Expo Linear Gradient, it offers a sleek, intuitive interface with real-time conversion rates.
 
 ## Features
-
 - Real-time currency conversion
 - Support for USD, BRL, and EUR
 - Interactive UI with pressed states for buttons
@@ -31,7 +28,6 @@ The Currency Converter App is a mobile application that provides instant currenc
 - Type-safe implementation with TypeScript
 
 ## Technologies Used
-
 - React Native
 - TypeScript
 - Expo
@@ -39,7 +35,6 @@ The Currency Converter App is a mobile application that provides instant currenc
 - Custom Styling
 
 ## Prerequisites
-
 Before you begin, ensure you have the following installed:
 
 - Node.js (v14 or higher)
@@ -48,7 +43,6 @@ Before you begin, ensure you have the following installed:
 - A mobile device or emulator
 
 ## Installation
-
 1. Clone the repository:
 ```bash
 git clone https://github.com/juliabonifaciio/ConverterCurrency.git
@@ -72,7 +66,6 @@ npx expo start
 ```
 
 ## Usage
-
 1. Launch the app on your device or emulator
 2. Enter the amount you want to convert in the input field
 3. Select the source currency (USD, BRL, or EUR)
@@ -81,11 +74,9 @@ npx expo start
 6. The converted amount will be displayed at the bottom of the screen
 
 ## License
-
 This project is licensed under the MIT License.
 
 ## Technical Details
-
 ### Exchange Rates
 The application uses a predefined exchange rate object:
 
@@ -118,5 +109,4 @@ type ExchangeRates = {
 ```
 
 ## Author
-
 - **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
